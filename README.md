@@ -37,6 +37,8 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Terraform](https://img.shields.io/badge/-Terraform-darkblue?style=flat-square&logo=terraform)
 ![Ansible](https://img.shields.io/badge/-Ansible-darkblue?style=flat-square&logo=ansible)
+![Php](https://img.shields.io/badge/-Php-darkblue?style=flat-square&logo=php)
+
 
 
 <br/>
