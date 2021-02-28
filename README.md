@@ -48,6 +48,8 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-darkblue?style=flat-square&logo=grafana)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-darkblue?style=flat-square&logo=prometheus)
 ![Kanban](https://img.shields.io/badge/-Kanban-darkblue?style=flat-square&logo=kanban)
+![Puppet](https://img.shields.io/badge/-Puppet-darkblue?style=flat-square&logo=Puppet)
+
 
 
 
