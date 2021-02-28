@@ -5,9 +5,6 @@
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
 <h3 align="right">Connect with me :</h3>
-<a href="https://linkedin.com/in/chiraag-kakar">
-  <img align="right" alt="Chiraag Kakar - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
-
 <br/>
 <br/>
 
