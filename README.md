@@ -14,8 +14,8 @@
 - 🤖 &nbsp; Terraform | Ansible | Cloud | Shell Script | Linux | Docker | Vagrant |
 - ☁️ &nbsp; AWS | OCI | OCI-C
 - 🛢 &nbsp; Oracle | Mysql
-- 🔧 &nbsp; Git | Markdown | Pipeline
-- 🖥 &nbsp; Zabbix | Oracle Entrerprise Manager | Grafana | GrayLog | Prometheus
+- 🔧 &nbsp; Git | Markdown | Gitlab |
+- 🖥 &nbsp; Zabbix | Oracle Entrerprise Manager | Grafana | GrayLog | Prometheus |
 
 <br/>
 
