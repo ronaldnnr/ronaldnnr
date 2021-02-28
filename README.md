@@ -38,6 +38,8 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-darkblue?style=flat-square&logo=oracle)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-darkblue?style=flat-square&logo=kubernetes)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-darkblue?style=flat-square&logo=zabbix)
+![Vagrant](https://img.shields.io/badge/-Vagrant-darkblue?style=flat-square&logo=vagrant)
+
 
 
 <br>
