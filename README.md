@@ -1,4 +1,22 @@
 <h2> Oi! Eu sou Ronald.</h2>
+
+<h3> 👨🏻‍💻 Sobre mim </h3>
+
+- 🤔 &nbsp; Devops Engineer.
+- 🎓 &nbsp; Engenheiro de Petróleo pelo Centro Universitário Tiradentes.
+- 💼 &nbsp; Locaweb - Tray E-commerce.
+- 🌱 &nbsp; Atualmente estou desenvolvendo conhecimentos sobre arquiteturas em Cloud's e intensificando conhecimentos na área de automações.
+- ✍️ &nbsp; Tenho como hobbies assistir séries/filmes, treina Jiu Jitsu e tocar violão.
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Devops | SRE
+- 🤖 &nbsp; Terraform | Ansible | Cloud | Shell Script | Linux | Docker | Vagrant |
+- ☁️ &nbsp; AWS | OCI | OCI-C
+- 🛢 &nbsp; Oracle | Mysql
+- 🔧 &nbsp; Git | Markdown | Gitlab |
+- 🖥 &nbsp; Zabbix | Oracle Entrerprise Manager | Grafana | GrayLog | Prometheus |
+
 <br/>
 ## 🚀💻 Technologies & Tools
 
@@ -21,26 +39,6 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-darkblue?style=flat-square&logo=kubernetes)
 
 <br>
-
-<h3> 👨🏻‍💻 Sobre mim </h3>
-
-- 🤔 &nbsp; Devops Engineer.
-- 🎓 &nbsp; Engenheiro de Petróleo pelo Centro Universitário Tiradentes.
-- 💼 &nbsp; Locaweb - Tray E-commerce.
-- 🌱 &nbsp; Atualmente estou desenvolvendo conhecimentos sobre arquiteturas em Cloud's e intensificando conhecimentos na área de automações.
-- ✍️ &nbsp; Tenho como hobbies assistir séries/filmes, treina Jiu Jitsu e tocar violão.
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Devops | SRE
-- 🤖 &nbsp; Terraform | Ansible | Cloud | Shell Script | Linux | Docker | Vagrant |
-- ☁️ &nbsp; AWS | OCI | OCI-C
-- 🛢 &nbsp; Oracle | Mysql
-- 🔧 &nbsp; Git | Markdown | Gitlab |
-- 🖥 &nbsp; Zabbix | Oracle Entrerprise Manager | Grafana | GrayLog | Prometheus |
-
-<br/>
-
 
 
 [![ronaldnnr GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaldnnr&show_icons=true)](https://github.com/ronaldnnr)
