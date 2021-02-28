@@ -44,9 +44,7 @@
 ![Vmware](https://img.shields.io/badge/-Vmware-darkblue?style=flat-square&logo=Vmware)Nginx
 ![Nginx](https://img.shields.io/badge/-Nginx-darkblue?style=flat-square&logo=Nginx)
 ![Apache](https://img.shields.io/badge/-Apache-darkblue?style=flat-square&logo=apache)
-
-
-
+![Kafka](https://img.shields.io/badge/-Kafka-darkblue?style=flat-square&logo=kafka)
 
 
 <br>
