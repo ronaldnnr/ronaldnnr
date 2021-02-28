@@ -41,7 +41,11 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-darkblue?style=flat-square&logo=kubernetes)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-darkblue?style=flat-square&logo=zabbix)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-darkblue?style=flat-square&logo=vagrant)
-![Vmware](https://img.shields.io/badge/-Vmware-darkblue?style=flat-square&logo=Vmware)
+![Vmware](https://img.shields.io/badge/-Vmware-darkblue?style=flat-square&logo=Vmware)Nginx
+![Nginx](https://img.shields.io/badge/-Nginx-darkblue?style=flat-square&logo=Nginx)
+![Apache](https://img.shields.io/badge/-Apache-darkblue?style=flat-square&logo=apache)
+
+
 
 
 
