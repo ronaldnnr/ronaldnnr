@@ -15,7 +15,6 @@
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 - 🤔 &nbsp; Devops Engineer.
-- 🎓 &nbsp; Engenheiro de Petróleo pelo Centro Universitário Tiradentes.
 - 💼 &nbsp; Locaweb - Tray E-commerce.
 - 🌱 &nbsp; Atualmente estou desenvolvendo conhecimentos sobre arquiteturas em Cloud's e intensificando conhecimentos na área de automações.
 - ✍️ &nbsp; Tenho como hobbies assistir séries/filmes, treina Jiu Jitsu e tocar violão.
