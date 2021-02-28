@@ -1,3 +1,35 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraag-kakar" alt="chiraag-kakar" /> </p>
+
+
+<p align="center">
+<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+</p>
+<h3 align="right">Connect with me :</h3>
+<a href="https://linkedin.com/in/chiraag-kakar">
+  <img align="right" alt="Chiraag Kakar - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+</a>
+<a href="https://dev.to/chiraag_kakar">
+  <img align="right"  alt="Chiraag Kakar - DEV" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22px">
+</a>
+<a href="https://www.codechef.com/users/chiraag_kakar">
+  <img align="right" alt="Chiraag Kakar - Codechef" width="22px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/>
+</a>
+<a href="https://instagram.com/0212chiraag">
+  <img align="right" alt="Chiraag Kakar - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+<a href="https://twitter.com/0212Chiraag">
+  <img align="right" alt="Chiraag Kakar - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
+</a>
+<a href="https://facebook.com/0212Chiraag">
+  <img align="right" alt="Chiraag Kakar - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+</a>
+<br/>
+<br/>
+
+
+
+
+
 <h2> Oi! Eu sou Ronald.</h2>
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
@@ -76,4 +108,3 @@
 <a href="https://www.instagram.com/ronaldsi1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Ronald Silva-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ronaldnnr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ronaldnnr@gmail.com-blue?style=flat-square&logo=microsoft"></a>
 </p>
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ronaldsilvannr)
