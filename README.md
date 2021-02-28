@@ -41,9 +41,6 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-darkblue?style=flat-square&logo=kubernetes)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-darkblue?style=flat-square&logo=zabbix)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-darkblue?style=flat-square&logo=vagrant)
-![Shel Script](https://img.shields.io/badge/-Shell-script-darkblue?style=flat-square&logo=shell-script)
-
-
 
 
 <br>
