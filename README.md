@@ -43,6 +43,16 @@
 
 [![ronaldnnr GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaldnnr&show_icons=true)](https://github.com/ronaldnnr)
 
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldnnr&hide=TeX&layout=compact)
+
+<br/>
+
+
+[![ronaldnnr GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaldnnr&show_icons=true)](https://github.com/ronaldnnr)
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -50,7 +60,3 @@
 <a href="https://www.instagram.com/ronaldsi1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Ronald Silva-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ronaldnnr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ronaldnnr@gmail.com-blue?style=flat-square&logo=microsoft"></a>
 </p>
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldnnr&hide=TeX&layout=compact)
