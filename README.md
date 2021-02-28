@@ -39,7 +39,9 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-darkblue?style=flat-square&logo=ansible)
 ![Php](https://img.shields.io/badge/-Php-darkblue?style=flat-square&logo=php)
 ![Linux](https://img.shields.io/badge/-Linux-darkblue?style=flat-square&logo=linux)
-![Oracle](https://img.shields.io/badge/-Oracle-darkblue?style=flat-square&logo=Oracle)
+![Oracle](https://img.shields.io/badge/-Oracle-darkblue?style=flat-square&logo=oracle)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-darkblue?style=flat-square&logo=kubernetes)
+
 
 
 
