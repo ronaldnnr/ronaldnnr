@@ -91,10 +91,18 @@
 
 <br/>
 
+### 🧧 Connect with me:
+
 [<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]
+[<img align="left" alt="mridul2820 | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/instagram.svg" />][instagram]
+[<img align="left" alt="mridul2820 | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/twitter.svg" />][twitter]
 
 
 
 
 [facebook]: https://www.facebook.com/nenemj/
+[instagram]: https://www.instagram.com/ronaldsi1
+[twitter]: https://twitter.com/ronaldsilvannr
+
+
 
