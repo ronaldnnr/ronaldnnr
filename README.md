@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<br><img src="https://github.com/ronaldnnr/ronaldnnr/blob/main/Developer.gif" width="280px"><br><br>
+<br><img src="https://github.com/ronaldnnr/ronaldnnr/blob/main/Developer.gif" width="500px"><br><br>
 </p>
 <br/>
 <br/>
