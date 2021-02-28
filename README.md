@@ -18,7 +18,7 @@
 - 🖥 &nbsp; Zabbix | Oracle Entrerprise Manager | Grafana | GrayLog | Prometheus |
 
 <br/>
-## 🚀💻 Technologies & Tools
+<h3> 🚀💻 Technologies & Tools</h3>
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
