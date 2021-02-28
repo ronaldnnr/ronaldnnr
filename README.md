@@ -38,6 +38,8 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-darkblue?style=flat-square&logo=terraform)
 ![Ansible](https://img.shields.io/badge/-Ansible-darkblue?style=flat-square&logo=ansible)
 ![Php](https://img.shields.io/badge/-Php-darkblue?style=flat-square&logo=php)
+![Linux](https://img.shields.io/badge/-Linux-darkblue?style=flat-square&logo=linux)
+
 
 
 
