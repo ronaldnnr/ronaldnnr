@@ -51,3 +51,6 @@
 <a href="mailto:ronaldnnr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ronaldnnr@gmail.com-blue?style=flat-square&logo=microsoft"></a>
 </p>
 
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldnnr&hide=TeX&layout=compact)
