@@ -45,6 +45,8 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-darkblue?style=flat-square&logo=Nginx)
 ![Apache](https://img.shields.io/badge/-Apache-darkblue?style=flat-square&logo=apache)
 ![Chef](https://img.shields.io/badge/-Chef-darkblue?style=flat-square&logo=Chef)
+![Grafana](https://img.shields.io/badge/-Grafana-darkblue?style=flat-square&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-darkblue?style=flat-square&logo=prometheus)
 
 
 <br>
