@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraag-kakar" alt="chiraag-kakar" /> </p>
 
 
 <p align="center">
