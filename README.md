@@ -4,6 +4,8 @@
 <br><img src="https://github.com/ronaldnnr/ronaldnnr/blob/main/Developer.gif" width="800px"><br><br>
 </p>
 <br/>
+<a href="https://linkedin.com/in/ahsankhan26" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
 <br/>
 
 
@@ -95,3 +97,5 @@
 [facebook]: https://www.facebook.com/nenemj/
 [instagram]: https://www.instagram.com/ronaldsi1
 [twitter]: https://twitter.com/ronaldsilvannr
+
+[linkedin]: https://linkedin.com/in/ahsankhan26
