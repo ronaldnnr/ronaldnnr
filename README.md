@@ -37,6 +37,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-darkblue?style=flat-square&logo=linux)
 ![Oracle](https://img.shields.io/badge/-Oracle-darkblue?style=flat-square&logo=oracle)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-darkblue?style=flat-square&logo=kubernetes)
+![Zabbix](https://img.shields.io/badge/-Zabbix-darkblue?style=flat-square&logo=zabbix)
+
 
 <br>
 
