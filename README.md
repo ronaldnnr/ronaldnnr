@@ -87,3 +87,14 @@
 <a href="https://www.instagram.com/ronaldsi1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Ronald Silva-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ronaldnnr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ronaldnnr@gmail.com-blue?style=flat-square&logo=microsoft"></a>
 </p>
+
+
+<br/>
+
+[<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]
+
+
+
+
+[facebook]: https://www.facebook.com/nenemj/
+
