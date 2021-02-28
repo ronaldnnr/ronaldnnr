@@ -3,7 +3,6 @@
 <p align="center">
 <br><img src="https://github.com/ronaldnnr/ronaldnnr/blob/main/Developer.gif" width="280px"><br><br>
 </p>
-<h3 align="right">Connect with me :</h3>
 <br/>
 <br/>
 
