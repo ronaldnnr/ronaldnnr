@@ -8,6 +8,8 @@
 
 
 <h2> Oi! Eu sou Ronald.</h2>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ronaldnnr&repo=ronaldnnr&countColorcountColor&countColor=%237B1E7B"/>
+
 <br/>
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ronald-silva-dev)] [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronaldnnr@gmail.com)](mailto:ronaldnnr@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://medium.com/@ronaldnnr)](https://medium.com/@ronaldnnr) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ronaldsilvannr)](https://twitter.com/ronaldsilvannr) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ronaldsi1/)](https://instagram.com/ronaldsi1) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/nenemj)](https://facebook.com/nenemj)
