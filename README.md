@@ -8,7 +8,6 @@
 
 
 <h2> Oi! Eu sou Ronald.</h2>
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ronaldnnr&repo=ronaldnnr&countColorcountColor&countColor=%237B1E7B"/>
 
 <br/>
 
