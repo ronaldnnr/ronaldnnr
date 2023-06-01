@@ -7,7 +7,7 @@
 <br/>
 
 
-<h2> Oi! Eu sou Ronald.</h2>
+<h2> Oi! Eu sou Ronald Silva.</h2>
 '
 <br/>
 
@@ -16,19 +16,17 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🤔 &nbsp; Devops Engineer.
+- 🤔 &nbsp; Site Reliability Engineering.
 - 💼 &nbsp; @RecargaPay
-- 🌱 &nbsp; Atualmente estou desenvolvendo conhecimentos sobre arquiteturas em Cloud's e intensificando conhecimentos na área de automações.
-- ✍️ &nbsp; Tenho como hobbies assistir séries/filmes, treina Jiu Jitsu e tocar violão.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Devops | SRE
-- 🤖 &nbsp; Terraform | Ansible | Cloud | Shell Script | Linux | Docker | Vagrant |
+- 🤖 &nbsp; Terraform | Ansible | Cloud | Shell Script | Kubernetes | Docker | Vagrant |
 - ☁️ &nbsp; AWS | OCI | OCI-C
 - 🛢 &nbsp; Oracle | Mysql
 - 🔧 &nbsp; Git | Markdown | Gitlab |
-- 🖥 &nbsp; Zabbix | Oracle Entrerprise Manager | Grafana | GrayLog | Prometheus |
+- 🖥 &nbsp; Zabbix | Oracle Entrerprise Manager | Grafana | GrayLog | Prometheus | New Relic | 
 
 <br/>
 <h3> 🚀💻 Technologies & Tools</h3>
