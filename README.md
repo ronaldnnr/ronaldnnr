@@ -17,7 +17,7 @@
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 - 🤔 &nbsp; Site Reliability Engineering.
-- 💼 &nbsp; Serasa Experian
+
 
 <h3>🛠 Tech Stack</h3>
 
